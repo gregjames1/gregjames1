@@ -2,21 +2,19 @@
 
 <h2>📚 Certifications:</h2>
 
-- <b>[Google IT Support Professional](https://coursera.org/professional-certificates/google-it-support In Progress)</b>
-- <b>[DataCamp Python Programmer](https://datacamp.com/tracks/python-programmer)</b>
-- <b>[Google IT Automation with Python Professional](https://coursera.org/professional-certificates/google-it-automation)<b>
-- <b>[DataCamp Data Engineer](https://datacamp.com/tracks/data-engineer)<b>
+- <b>[Google IT Support Professional](https://coursera.org/professional-certificates/google-it-support) - In Progress</b>
+- <b>[CourseCareers IT Support](https://coursecareers.com/explore/it)</b>
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ )
+  - [osTicket: Post-Installation Configuration](https://github.com/)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🤳 Connect with me:</h2>
 
