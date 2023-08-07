@@ -2,7 +2,7 @@
 
 <h2>📚 Certifications:</h2>
 
-- <b>[Google IT Support Professional](https://coursera.org/professional-certificates/google-it-support)</b>
+- <b>[Google IT Support Professional](https://coursera.org/professional-certificates/google-it-support In Progress)</b>
 - <b>[DataCamp Python Programmer](https://datacamp.com/tracks/python-programmer)</b>
 - <b>[Google IT Automation with Python Professional](https://coursera.org/professional-certificates/google-it-automation)<b>
 - <b>[DataCamp Data Engineer](https://datacamp.com/tracks/data-engineer)<b>
