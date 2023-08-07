@@ -8,7 +8,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ )
+  - [osTicket: Prerequisites and Installation](https://github.com/gregjames1/gregjames1/tree/osTicket)
   - [osTicket: Post-Installation Configuration](https://github.com/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/)
 - <b>Microsoft Azure</b>
