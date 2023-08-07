@@ -1,4 +1,4 @@
-<h1>Hi, <a href="https://www.linkedin.com/in/gregory-james-bb5883231/"> I'm Greg, an IT Support Professional 💻 </a>
+<h1>Hi, I'm Greg, <a href="https://www.linkedin.com/in/gregory-james-bb5883231/"> an IT Professional 💻 </a>
 <h2>📚 Certifications:</h2>
 
 - <b>[Google IT Support Professional](https://coursera.org/professional-certificates/google-it-support) - In Progress</b>
