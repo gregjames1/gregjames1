@@ -1,5 +1,4 @@
-<h1>Hi, I'm Greg! <br/><a href="https://github.com/gj2257">Python Programmer</a>, <a href="https://www.linkedin.com/in/gregory-james-bb5883231/">SQL Developer</a>, Technical Support Professional
-
+<h1>Hi, <a href="https://www.linkedin.com/in/gregory-james-bb5883231/"> I'm Greg, an IT Support Professional 💻 </a>
 <h2>📚 Certifications:</h2>
 
 - <b>[Google IT Support Professional](https://coursera.org/professional-certificates/google-it-support) - In Progress</b>
