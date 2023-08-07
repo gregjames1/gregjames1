@@ -1,4 +1,4 @@
-<h1>Hi, I'm Greg, an <a href="https://www.linkedin.com/in/gregory-james-bb5883231/"> IT Professional 💻 </a>
+<h1>Hi, I'm Greg, an <a href="https://www.linkedin.com/in/gregorygjames/"> IT Professional 💻 </a>
 <h2>📚 Certifications:</h2>
 
 - <b>[Google IT Support Professional](https://coursera.org/professional-certificates/google-it-support) - In Progress</b>
@@ -19,4 +19,4 @@
 
 [<img align="left" alt="Gregory James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
-[linkedin]: https://www.linkedin.com/in/gregory-james-bb5883231/
+[linkedin]: https://www.linkedin.com/in/gregorygjames/
