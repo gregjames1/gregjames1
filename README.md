@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System) - Under Construction 🚧</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gregjames1/osTicket-Prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/gregjames1/osTicket-Post-Install-and-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gregjames1/osTicket-Lifecycle-Examples)
