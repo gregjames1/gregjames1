@@ -1,8 +1,7 @@
 <h1>Hi, I'm Greg, an <a href="https://www.linkedin.com/in/gregorygjames/"> IT Professional 💻 </a>
 <h2>📚 Certifications:</h2>
 
-- <b>[CompTIA A+](https://www.comptia.org/certifications/a) - In Progress</b>
-- <b>[CourseCareers IT Support](https://coursecareers.com/explore/it)</b>
+- <b>[CompTIA Network+](https://www.comptia.org/en-us/certifications/network/) - In Progress</b>
 
 <h2>👨‍💻 Projects:</h2>
 
